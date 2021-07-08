@@ -15,7 +15,7 @@ int main()
         n=C/5;
         C-=5*n;
         p=C;
-        cout<<q<<" "<<d<<" "<<p<<" "<<n<<endl;
+        cout<<q<<" "<<d<<" "<<n<<" "<<p<<endl;
     }
     return 0;
 }
