@@ -36,5 +36,4 @@ void comb(int M, list<int>ran)
         comb(M, ran);
         ran.push_front(front);
     }
-    
 }
