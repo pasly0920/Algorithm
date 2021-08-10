@@ -28,7 +28,6 @@ int main()
     mid_search(1, K, 1);
     for(int i=1;i<num;i++)
     {
-        //cout<<order.front()<<" "<<arr[i]<<endl;
         binary[order.front()]=arr[i];
         order.pop(); 
     }
